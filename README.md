@@ -1,7 +1,4 @@
 # PSNetworkingToolbox
-Run networking commands from a PowerShell console menu
-
-# PSNetworkingToolbox
 
 Run networking commands from a PowerShell console menu
 
