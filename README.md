@@ -102,4 +102,4 @@ Remove route and variables set (Destination, Subnet Mask and Gateway) from the I
 
 ##License
 
-The license is available [here](https://github.com/oliverjamesfletcher/PSNetworkingToolbox/blob/master/PSNetworkingToolbox/License.txt)
+The license is available [here](https://github.com/oliverjamesfletcher/PSNetworkingToolbox/blob/master/License)
