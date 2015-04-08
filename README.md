@@ -13,7 +13,7 @@ This script allows you to select a networking command then set variables and run
 ## Usage
 
 1. Run PS and cd to C:\Scripts
-2. Enter .\Networking_Toolbox.ps1 and press enter to run toolbox
+2. Type '.\Networking_Toolbox.ps1' and then press enter to run toolbox
 
 ######Note: Some commands will display information, others will require input
 
