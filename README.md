@@ -6,7 +6,7 @@ This script allows you to select a networking command then set variables and run
 
 ## Install Instructions
 
-1. Download ZIP [here](https://github.com/oliverjamesfletcher/PSNetworkingToolbox/blob/master/PSNetworkingToolbox)
+1. Download ZIP [here](https://github.com/oliverjamesfletcher/PSNetworkingToolbox/blob/master/PSNetworkingToolbox.zip)
 2. Create folder in the root of C:\ named "Scripts"
 3. Extract files into "Scripts" folder
 
